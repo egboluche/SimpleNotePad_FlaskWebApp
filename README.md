@@ -8,6 +8,8 @@ This is a simple note web application using the Python Flask framework in conjun
 
 ## Running The App
 
+Separate the code into three folders, .js files would go into a folder called static, .html files would go into a folder called templates and .py files would go into website folder except main.py which is outside the website folder because it's an executable.
+
 ```bash
 python main.py
 ```
@@ -21,7 +23,7 @@ Go to `http://127.0.0.1:5000`
 2. Victor Adeyemo - BHU/23/04/09/0005
 3. Egena Sylvester - BHU/23/04/05/0099
 4. Kwembe Pleasant - BHU/23/04/05/0121
-5. Egboluche Daniel - BHU/23/04/09/0077
+5. Egboluche Daniel - BHU/23/04/05/0077
 
 ## Roles
 1. Favour: HTML, Bootstrap.
