@@ -8,8 +8,6 @@ This is a simple note web application using the Python Flask framework in conjun
 
 ## Running The App
 
-Separate the code into three folders, .js files would go into a folder called static, .html files would go into a folder called templates and .py files would go into website folder except main.py which is outside the website folder because it's an executable.
-
 ```bash
 python main.py
 ```
